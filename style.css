@@ -1,0 +1,19 @@
+.wrap{
+    margin: auto;
+    width: 80%;
+    background-color: blueviolet;
+    overflow: hidden;
+}
+.content,aside{
+    height: 500px;
+}
+.content{
+    width: 80%;
+    background-color: beige;
+    float: left;
+}
+aside{
+    width: 20%;
+    background-color: blanchedalmond;
+    float: left;
+}
